@@ -43,14 +43,21 @@ p{ font-family: Arial, Helvetica, sans-serif; font-size: 17px;}
 .tooltip{position: relative; display: inline-block; }
 
 /*@media*/
-@media (max-width: 480px) {
-    .navbar li {padding: 10px;}
+@media (max-width: 992px) {
 
-    .navbar ul{ visibility: inherit;}
+    .navbar-expand-lg{background-color: white;}
+
+    .navbar div{margin: inherit; background-color: white;}
+
+    .navbar{max-height: none; padding: inherit;}
 
     .box{margin-right:20px; margin-left: 20px;}
 
-    #nav-select{visibility: visible;}
+    .navbar-brand{padding: 10px;}
+
+
+
+
 }
 
 
