@@ -33,6 +33,22 @@ This project highlights the manipulations of CSS and HTML componets of a Web Pag
 </p>
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_MaxTemp.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_WindSpeed.png">
+</p>
+
 ![ClodinessVLat](https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Cloudiness.png)
 
 ![HumidityVLat](https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png)
