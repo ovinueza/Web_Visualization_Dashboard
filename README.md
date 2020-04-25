@@ -29,21 +29,21 @@ This project highlights the manipulations of CSS and HTML componets of a Web Pag
 ## Findings
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Cloudiness.png">
+  <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Cloudiness.png">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png">
+  <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_MaxTemp.png">
+  <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_MaxTemp.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_WindSpeed.png">
+  <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_WindSpeed.png">
 </p>
 
 
