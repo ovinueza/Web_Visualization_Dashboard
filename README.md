@@ -37,9 +37,6 @@ This project highlights the manipulations of CSS and HTML componets of a Web Pag
   <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png">
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_MaxTemp.png">
