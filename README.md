@@ -27,20 +27,26 @@ Wind Speed (mph) vs. Latitude
 This project highlights the manipulations of CSS and HTML componets of a Web Page
 
 ## Findings
-
+Based on the analyzed data there is no relationship between latitude and cloudiness.
 <p align="center">
   <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Cloudiness.png">
 </p>
 
+Most of the cities located along the equator have high humidity during the summer.
+
+Cities that have similar latitudes may differ greatly in their levels of humidity, based on how close they are to the ocean and other large bodies of water.
 
 <p align="center">
   <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_Humidity.png">
 </p>
 
+Based on data collected in mid July, cities along the equator and 20 degrees latitude have high temperatures, but cities in between the 18 to 42 degree latitudes have the highest temperatures. This may be due to the summer season and geographical location.
 
 <p align="center">
   <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_MaxTemp.png">
 </p>
+
+There is not a strong relationship between windspeed and latitude, with most cities having windspeed below 10 mph. The few cities with windspeeds above 20 mph may be in geographical areas where those speeds are common or are experiencing significant weather events. 
 
 <p align="center">
   <img width="360" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_WindSpeed.png">
